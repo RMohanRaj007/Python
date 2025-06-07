@@ -1,0 +1,2 @@
+thistuple = ("apple",)
+print(thistuple)
